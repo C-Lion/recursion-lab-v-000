@@ -17,3 +17,7 @@ function printString(myString) {
  
 printString("Babycat");
 
+function reverseString(myString) {
+  
+}
+
